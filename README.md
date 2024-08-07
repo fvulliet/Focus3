@@ -1,2 +1,2 @@
-# Focus3
-a small application to play with focus, activeFocus, and FocusScope
+# FocusScope3
+a small application to demonstrate how the focus works with QML
